@@ -6,3 +6,6 @@ function convertTempCtoF(degreesC){
 
 const tempF = convertTempCtoF(tempC)
 console.log(`${tempC}°C is equivalent to ${tempF}°F`);
+
+
+
